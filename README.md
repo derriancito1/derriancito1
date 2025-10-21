@@ -1,41 +1,84 @@
-- 👋 Hello, I’m Jonathan Rodriguez
-- 👀 I’m interested in working in a company that allows me to grow and test my programming skills, in addition to that that has new challenges for me
-- 🌱 I’m currently learning to program with Kotlin, Net Core and I am studying English at Harmon Hall
-- 💞️ I’m looking to collaborate in everything possible, I have 8 years of experience as a programmer, I have been in charge of work teams, I have been in contact with different areas such as databases, networks, infrastructure, etc.
-- 📫 how to get to me? You can contact me through my linkedin https://www.linkedin.com/in/jonathan-rodriguez-b5a20266/
+# 👋 Hello, I’m Jonathan Rodriguez
 
-ABSTRACT
-Talented and dedicated software developer with over 8 years of experience in overseeing the development of the most cutting edge IT solutions and applications. Eager to join the challenging work environment at your company to utilize my technical skills in creating responsive, user-friendly, and customer-oriented .Net or Android-based projects.
+👀 I’m interested in working in a company that allows me to grow and test my programming skills while taking on new challenges.  
 
-EXPERIENCE
+🌱 I’m currently studying **DevOps** and improving my knowledge in **English** at Harmon Hall.  
 
-SOFTWARE DEVELOPER - TELEPERFORMANCE SEP 2017-Present
-- Built modern applications using MySQL, SQL Server, .NET, JSON object Management, JQUERY, CSS, SSIS, C#, JSP, WebServices, Stored Procedure and supported the company’s development and testing processes.
-- Worked with a team of expert coders to write maintainable code and maintain existing software to improve performance and fix bugs.
-- Obtained, studied, and manipulated data to analyze systems’ full capabilities.
+💞️ I’m looking to collaborate in everything possible. I have over **12 years of experience** as a software developer, including leadership roles and cross-functional collaboration with teams in databases, networks, infrastructure, and more.  
 
-SOFTWARE DEVELOPER - C5 DURANGO Aug 2014- sep 2017
-- Built modern applications using MySQL, SQL Server, PHP, JQUERY, API REST, CSS, JavaScript and Spring and supported the companys development and testing processes.
-- Ove rsaw the creation of reports concerning software project specifications.
-- Performed testing and troubleshooting of systems as required by the Software Development supervisor.
-- Consulted with clients to identify their projects’ specifications and follow up with deployed applications’ status and any technical issues.
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/jonathan-rodriguez-b5a20266/) | Email: jonathan_voices@hotmail.com  
 
-WEB DEVELOPER - PUBLICIDAD Y PAGINAS WEB Jan 2013 - Aug 2014
-- Fixed bugs in existing websites and assisted clients in fixing problems in their website functions from the backend.
-- Assisted in improving clients’ e-commerce websites’ mobile-responsiveness and intuitiveness.
-- Collaborated with the senior web developer to clean up processes, boost performance, and reduce downtime.
+---
 
-SKILLS
-- .NET Framework
-- .NET Core
-- SQL Server
-- MySQL
-- C#
-- SSIS
-- JavaScript
-- Agile Scrum
-- Android Kotlin
-- Android Java
+## 📝 Abstract
+Talented and dedicated software developer with extensive experience in overseeing the development of cutting-edge IT solutions and applications. Eager to contribute to challenging environments by leveraging technical skills in creating responsive, user-friendly, and customer-oriented **.NET**, **PHP**, **WordPress**, and **Android (Java)** projects.
+
+---
+
+## 💼 Experience
+
+### **Softtek** | Jul 2023 – Present  
+**Software Developer**  
+- Troubleshooting IIS issues and optimizing Windows services.  
+- Diagnosing and improving SQL Server and MySQL query performance.  
+- Modifying and optimizing stored procedures.  
+- Managing version control using GitHub, including branches and tags.  
+- Configuring MQ queues and analyzing system logs.  
+
+### **Teleperformance** | Sep 2022 – Jun 2023  
+**Software Engineer - Senior**  
+- Technical leadership in projects using .NET Core and Entity Framework.  
+- Optimized backend performance for agents and queries.  
+- Developed administrative system functionalities.  
+- Implemented caching strategies and lazy loading for efficiency.  
+
+### **Teleperformance** | Sep 2017 – Sep 2022  
+**Software Developer**  
+- Developed applications with .NET Core and .NET Framework.  
+- Built responsive interfaces using HTML5, CSS3, Bootstrap, and JavaScript/jQuery.  
+- Implemented SSIS packages for ETL processes and data integration.  
+- Maintained databases and applied best practices for query optimization.  
+
+### **C5 Durango** | Aug 2014 – Sep 2017  
+**Software Developer**  
+- Built applications using PHP, MySQL, API REST, CSS, JavaScript.  
+- Created reports and tested software according to project specifications.  
+- Consulted with clients to define requirements and followed up on deployed solutions.  
+
+### **Publicidad y Páginas Web** | Jan 2013 – Aug 2014  
+**Web Developer**  
+- Fixed backend bugs and improved e-commerce websites.  
+- Enhanced mobile responsiveness and user experience.  
+- Assisted in optimizing processes and reducing downtime.  
+
+---
+
+## 💻 Skills
+
+- **Backend:** .NET Core, .NET Framework, C#, PHP, SSIS, APIs REST  
+- **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap  
+- **Databases:** SQL Server, MySQL, Stored Procedures  
+- **CMS:** WordPress  
+- **DevOps / Tools:** Git, GitHub, Bitbucket, TFS, IIS, Windows Services, MQ  
+- **Mobile:** Android (Java)  
+- **Other:** Networks and IT security, Agile/Scrum methodologies  
+
+---
+
+## 🌟 Projects
+
+- [Puritronic Paso Real](https://puritronicpasoreal.com/) – Corporate website (WordPress)  
+- [Diversiti Systems](https://www.diversitisystems.com/) – Tech services portal  
+- [POS Puritronic](https://pos.puritronicpasoreal.com/) – PHP point-of-sale system  
+- [Caja de Ahorro - Diversiti Systems](https://cajadeahorro.diversitisystems.com/) – PHP/MySQL system  
+- [Home Portal - Puritronic](https://home.puritronicpasoreal.com/) – Inventory & delivery management (.NET)  
+- [Calculadora Hipotecaria](https://play.google.com/store/apps/details?id=com.diversitisystems.calculadorahipoteca) – Android app  
+- [Aguinaldo México](https://play.google.com/store/apps/details?id=com.mexico.aguinaldo.aguinaldomexico) – Android app  
+
+---
+
+> These are some of my projects available on my [GitHub repositories](https://github.com/derriancito1)
+
 
 
 <!---
